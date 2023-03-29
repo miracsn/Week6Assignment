@@ -1,0 +1,11 @@
+var expect = chai.expect;
+
+describe('MyFunctions', function() {
+    describe('Create Test Deck', () => {
+        it("Should see if there are 52 cards in the deck", function (done){
+            let testDeck = new Deck();// create new deck
+           
+
+        })
+    })
+})
